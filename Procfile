@@ -1,1 +1,1 @@
-web: unicorn travel.wsgi --log-file -
+web: gunicorn travel.wsgi --log-file -
