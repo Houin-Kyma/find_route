@@ -228,7 +228,7 @@
   "pk": 11,
   "fields": {
     "name": "tr9",
-    "travel_time": 1314,
+    "travel_time": 114,
     "from_city": 4,
     "to_city": 5
   }
@@ -238,7 +238,7 @@
   "pk": 12,
   "fields": {
     "name": "tr10",
-    "travel_time": 2345,
+    "travel_time": 245,
     "from_city": 15,
     "to_city": 14
   }
@@ -248,7 +248,7 @@
   "pk": 13,
   "fields": {
     "name": "tr11",
-    "travel_time": 23467,
+    "travel_time": 237,
     "from_city": 12,
     "to_city": 15
   }
@@ -258,7 +258,7 @@
   "pk": 14,
   "fields": {
     "name": "tr12",
-    "travel_time": 2325235,
+    "travel_time": 235,
     "from_city": 1,
     "to_city": 15
   }
@@ -268,7 +268,7 @@
   "pk": 15,
   "fields": {
     "name": "tr13",
-    "travel_time": 1124,
+    "travel_time": 114,
     "from_city": 1,
     "to_city": 4
   }
@@ -278,7 +278,7 @@
   "pk": 16,
   "fields": {
     "name": "tr14",
-    "travel_time": 3325,
+    "travel_time": 325,
     "from_city": 4,
     "to_city": 3
   }
@@ -288,7 +288,7 @@
   "pk": 17,
   "fields": {
     "name": "tr15",
-    "travel_time": 42523,
+    "travel_time": 423,
     "from_city": 1,
     "to_city": 3
   }
